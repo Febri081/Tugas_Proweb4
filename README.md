@@ -13,6 +13,7 @@ A. ALGORITMA LOGIN
   7.	Selesai.  
   
 B. PSEUDECODE
+
     SESSION[‘GAGAL’], $user, $pass =0
     JIKA < $user == $dbuser && $pass == $dbpass> == TRUE
 	    Maka berhasil login dan masuk ke halaman selanjutnya. 
