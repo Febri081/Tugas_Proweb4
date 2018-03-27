@@ -4,6 +4,7 @@ Informatika B
 5150411081
 
 A. ALGORITMA LOGIN
+
   1.	Mulai.
   2.	Masukkan Username dan Pasword yang sesuai.
   3.	Klik tombol Sign In.
